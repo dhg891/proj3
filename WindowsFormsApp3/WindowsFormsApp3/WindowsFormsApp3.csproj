@@ -56,6 +56,7 @@
     <Compile Include="H_Class2.cs" />
     <Compile Include="H_Class6.cs" />
     <Compile Include="H_Class3.cs" />
+    <Compile Include="H_Class7.cs" />
     <Compile Include="O_Class1.cs" />
     <Compile Include="O_Class2.cs" />
     <Compile Include="Program.cs" />
