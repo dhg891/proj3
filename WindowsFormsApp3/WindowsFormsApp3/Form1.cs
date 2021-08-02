@@ -16,6 +16,5 @@ namespace WindowsFormsApp3
         {
             InitializeComponent();
         }
-
     }
 }
