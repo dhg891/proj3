@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace WindowsFormsApp3
 {
-    class OHchungClass1
+    class H_d1_class10
     {
-        //OHchungClass1 Off
     }
 }
