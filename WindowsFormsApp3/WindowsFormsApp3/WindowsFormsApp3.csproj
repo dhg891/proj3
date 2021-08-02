@@ -58,6 +58,7 @@
     <Compile Include="H_Class3.cs" />
     <Compile Include="O_Class1.cs" />
     <Compile Include="O_Class2.cs" />
+    <Compile Include="O_Class7.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Properties\Resources.resx">
