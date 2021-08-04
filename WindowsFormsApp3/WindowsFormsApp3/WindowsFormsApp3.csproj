@@ -59,6 +59,7 @@
     <Compile Include="H_Class7.cs" />
     <Compile Include="H_Class8.cs" />
     <Compile Include="H_d1_class10.cs" />
+    <Compile Include="H_devClass14.cs" />
     <Compile Include="H_dev_Class12.cs" />
     <Compile Include="OHchungClass1.cs" />
     <Compile Include="O_Class1.cs" />
