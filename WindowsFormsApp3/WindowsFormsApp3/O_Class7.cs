@@ -8,6 +8,7 @@ namespace WindowsFormsApp3
 {
     class O_Class7
     {
+        //H edit O_Class7
         //O edit O_Class7 13
     }
 }
