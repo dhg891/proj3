@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace WindowsFormsApp3
 {
-    class O_Class1
-    { 
-        //thêm lúc O_devO2_Class13
+    class O_devO2_Class13
+    {
     }
 }
