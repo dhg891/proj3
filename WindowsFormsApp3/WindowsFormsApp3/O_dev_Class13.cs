@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace WindowsFormsApp3
 {
-    class O_Class7
+    class O_dev_Class13
     {
-        //O edit O_Class7 13
     }
 }
